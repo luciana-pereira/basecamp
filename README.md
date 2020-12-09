@@ -4,7 +4,7 @@
 
 Olá, seja bem vindo!
 
-Este repositorio cotém as atividades realizadas por mim durante o 1º _Basecamp_ da _42SP_, realizado em 06 de Novembro 2020 e finalizado em 05 de Dezembro de 2020.
+Este repositorio contém as atividades realizadas por mim, durante o 1º _Basecamp_ da _42SP_, realizado em 06 de Novembro 2020 e finalizado em 05 de Dezembro de 2020.
 
 Projeto	Exercícios	Score
 * [X] Shell00	[10 exercises]	[100%]
@@ -23,8 +23,8 @@ Projeto	Exercícios	Score
 * [ ] C11	[8 exercises]	[0]
 * [ ] C12	[18 exercises] [0]
 * [ ] C13	[8 exercises]	[0]
-* [X] Rush00	[04%]
-* [X] Rush01	[12%]
+* [X] Rush00	[0%]
+* [X] Rush01	[0%]
 * [X] Rush02	[0]
 * [X] Exame00	[04%]
 * [X] Exame01	[12%]
