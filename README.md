@@ -6,6 +6,10 @@ Olá, seja bem vindo!
 
 Este repositorio contém as atividades realizadas por mim, durante o **1º _Basecamp_ da _42SP_**, realizado em 06 de Novembro 2020 e finalizado em 05 de Dezembro de 2020.
 
+<div align="center" style="display: inline_block">
+  <img src="https://badge42.herokuapp.com/api/stats/lpereira?cursus=Basecamp"/>  
+</div>
+
 **Atenção!!**
 
 Não copie e cole os códigos contidos neste repositorio, eles servem como referência, faça seus próprios codigos para não sofrerem com um **_-42_**.
